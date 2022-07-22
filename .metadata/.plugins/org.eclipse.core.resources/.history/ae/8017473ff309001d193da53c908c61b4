@@ -1,0 +1,5 @@
+package com.hyulez.dsmeta.controllers;
+
+public class SaleController {
+
+}

@@ -406,3 +406,57 @@ java.net.URISyntaxException: Illegal character in path at index 17: file:/D:/Arq
 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:32.486
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.siyJMJLm
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:32.487
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.siyJMJLm
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:32.488
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:32.488
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.siyJMJLm => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:50.763
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:50.763
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4447c594[org.springframework.tooling.boot.ls:1.36.0.202206171137(id=567)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:50.764
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:53.787
+!MESSAGE Boot LS startup time from start to initialized: 3023ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:53.932
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rJIPNTTUisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:53.933
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:53.933
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:53.933
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:53.934
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rJIPNTTU => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:53.934
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:53.941
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:53.945
+!MESSAGE buffering callback sts4.classpath.rJIPNTTU backend false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:53.946
+!MESSAGE executing callback sts4.classpath.rJIPNTTU 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-22 15:13:54.472
+!MESSAGE executing callback sts4.classpath.rJIPNTTU SUCCESS [done]

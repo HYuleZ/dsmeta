@@ -1,0 +1,5 @@
+package com.hyulez.dsmeta.services;
+
+public class SaleService {
+
+}
